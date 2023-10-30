@@ -15,37 +15,28 @@ import Sidebar from "../components/Sidebar.vue";
       <p class="text-3xl font-semibold">Visi & Misi Desa</p>
       <p class="text-lg font-semibold">Visi</p>
       <p>
-        “Terwujudnya Desa Setu Yang Sejahtera dan Mandiri, ditopang Kinerja
-        Aparatur yang Profesional dalam Kerangka Budaya Bangsa didasari Keimanan
-        dan Ketaqwaan”
+        “Terwujudnya Masyarakat Desa Dan Pemerintahaan Desa Purwabakti Yang Bersatu,Mandiri,Sejahtera,Aman,Dan Damai ”
       </p>
       <p class="text-lg font-semibold">Misi</p>
       <ul>
         <li>
-          1. Mengembangkan system Pemerintahan Desa yang bersih dan profesional
-          serta berorientasi pada pelayanan publik dengan prinsif kerja ikhlas,
-          lakukan sekarang dan siap turun ke lapangan;
+          1. Meningkatkan Kualitas Sumberdaya manusia melalui program pendidikan dan kesehatan serta pengamalan ajaran agama
+          kepada masyarakat sesuai dengan palsafah, Pancasila dan Undang-undang Negara Republik Indonesia;
         </li>
         <li>
-          2. Meningkatkan dan memantapkan system perencanaan pembangunan desa
-          melalui pengoptimalan mekanisme musyawarah pembangunan desa dengan
-          melibatkan seluruh steackholder yang ada;
+          2. Meningkatkan partisipasi masyarakat dalam pembangunan desa sehinga dapat meningkatkan kesadaran dan kemandirian
+          dalam pembangunan Desa berkelanjutan;
         </li>
         <li>
-          3. Membuat skala prioritas untuk kegiatan-kegiatan pembangunan yang
-          akan dilaksanakan baik pembangunan fisik atau non fisik, seperti
-          infrastruktur, perekonomian, keagamaan, Pendidikan dan kesehatan;
+          3. Mengoptimalkan kinerja aparat pemerintahan desa secara maksimal sesuai tugas pko dan pungsi agar masyarakat
+          mendapatkan pelayanan yang maksimal, pelayan yang lebih baik,ramah,cepat dan tepat;
         </li>
         <li>
-          4. Meningkatkan kemampuan dan peran serta aktif masyarakat dalam
-          mengelola pembangunan berkelanjutan secara efisisen dan efektif dengan
-          memanfaatkan potensi sumber daya yang ada, baik sumber daya alam
-          maupun sumberdaya manusia;
+          4. Meningkatkan ketahanan ekonomi dengan menggalakan usaha ekonomi kerakyatan melalui program strategis dibidang
+          produksi pertanian, perkebunan,peternakan,perikanan dan pariwisata;
         </li>
         <li>
-          5. Meningkatkan kemampuan dan pemberdayaan Lembaga-lembaga
-          kemasyarakatan yang ada didesa atau lebih mendinamisasi dan mendukung
-          seluruh proses pembangunan;
+          5. Mendorong pengembangan koprasi usaha kecil dan menengah serta Badan Usaha Milik Desa;
         </li>
         <li>
           6. Mendorong majunya Pendidikan formal maupun nonformal seperti
