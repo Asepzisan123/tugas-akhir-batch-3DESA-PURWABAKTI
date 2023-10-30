@@ -30,7 +30,7 @@
   background: linear-gradient(
     90deg,
     rgba(0, 27, 133, 1) 0%,
-    rgba(0, 7, 78, 1) 40%
+    rgba(235, 216, 52) 40%
   );
 } */
 </style>
