@@ -3,7 +3,7 @@
     <img
       src="@/assets/logo-bogor.png"
       class="w-45 h-50 opacity-60 m-20"
-      alt=""
+      alt="22222"
     />
     <div class="ml-10 flex flex-col justify-center">
       <p class="text-white text-2xl mb-2">Profile Desa</p>
