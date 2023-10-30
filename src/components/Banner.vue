@@ -26,7 +26,7 @@
 </template>
 <style scoped>
 /* .banner {
-  background: rgb(3, 23, 252);
+  background: rgb(252, 3, 11);
   background: linear-gradient(
     90deg,
     rgba(0, 27, 133, 1) 0%,
